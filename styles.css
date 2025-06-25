@@ -47,7 +47,7 @@ body {
     display: flex;
     width: 200%;
     height: 100%;
-    animation: slide 0s infinite;
+    animation: slide 15s infinite;
   }
 
   .slides img {
